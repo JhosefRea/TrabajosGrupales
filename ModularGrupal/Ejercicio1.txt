@@ -1,0 +1,6 @@
+Elementos iniciales
+[63] [55] [87] [23] 
+Elementos ordenados
+[23] [55] [63] [87] 
+El menor es 23 y se repite : 1 veces
+El mayor es 87 y se repite : 1 veces

@@ -1,0 +1,16 @@
+*******   DATOS DEL PROVEEDOR   *******
+Código    Nombre    Ciudad      Teléfono
+ABC001     Favorita    Quito      0995644186
+
+
+
+*******   DATOS DEL Producto   *******
+nombre	precio	cantidad	estado
+leche		15		2		n
+u		1		1		n
+
+
+
+Total Productos: 16
+Cantidad de productos adquiridos: 2
+El valor total: 32
